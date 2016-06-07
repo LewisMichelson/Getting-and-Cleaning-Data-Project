@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 With the full description here:
 [Human Activity Recognition UsingSmartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphone)
 
-##Perform the following required steps:
+##Perform the following steps:
 
  Step 1. Merges the train and test sets to create one data set
  
